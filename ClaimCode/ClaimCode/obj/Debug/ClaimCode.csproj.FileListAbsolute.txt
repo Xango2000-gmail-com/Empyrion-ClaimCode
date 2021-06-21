@@ -1,0 +1,7 @@
+F:\Repos\ClaimCode\ClaimCode\obj\Debug\ClaimCode.csproj.CoreCompileInputs.cache
+K:\SteamLauncher\steamapps\common\Empyrion - Dedicated Server\Content\Mods\ClaimCode\ClaimCode.dll
+K:\SteamLauncher\steamapps\common\Empyrion - Dedicated Server\Content\Mods\ClaimCode\ClaimCode.pdb
+F:\Repos\ClaimCode\ClaimCode\obj\Debug\ClaimCode.dll
+F:\Repos\ClaimCode\ClaimCode\obj\Debug\ClaimCode.pdb
+K:\SteamLauncher\steamapps\common\Empyrion - Dedicated Server\Content\Mods\ClaimCode\Setup.yaml
+F:\Repos\ClaimCode\ClaimCode\obj\Debug\ClaimCode.csprojAssemblyReference.cache
